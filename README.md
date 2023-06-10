@@ -20,6 +20,7 @@ Version 4.0では、メインフレームウィンドウを旧来のMDIスタイ
 
 > **Note:** 
 FSWorkbenchは現在のところオープンソースではありません。   
+
 > **Note:**
 FSWorkbench is not open source. You will find here the builds only. 
 
