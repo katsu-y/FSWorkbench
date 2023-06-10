@@ -18,8 +18,8 @@ Version 4.0では、メインフレームウィンドウを旧来のMDIスタイ
 
 - ユーザーモードで使用できますが、管理者モードで実行した場合すべての機能が利用できます。例えばWIMイメージ管理ツールなどは管理者モードでのみ実行できます。
 
->**Note:** FSWorkbenchは現在のところオープンソースではありません。   
->**Note:** FSWorkbench is not open source. You will find here the builds only. 
+> **Note:** FSWorkbenchは現在のところオープンソースではありません。   
+> **Note:** FSWorkbench is not open source. You will find here the builds only. 
 
 ## Beta版
 
