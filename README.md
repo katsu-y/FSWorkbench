@@ -1,5 +1,5 @@
 # FSWorkbench
-### Version 4.0 Beta
+### Version 4.0 Beta (4.0.749.11)
 
 FSWorkbenchは、コンピュータのハードディスクなどローカルストレージに含まれるファイルやディレクトリをGUIで表示・操作をするアプリケーションです。
 ファイルシステムの情報を表示する他、コピー,移動,削除など基本的な操作も行えます。
@@ -25,6 +25,8 @@ Version 4.0では、メインフレームウィンドウを旧来のMDIスタイ
 ## Beta版
 
 - Version 4.0のBeta版を公開しました。
+
+- [履歴](https://github.com/yamashita-software-works/FSWorkbench/blob/main/HISTORY.md)
 
 - Beta版に至るまでのプレビュー版はこちらで公開していました。   
   https://github.com/yamashita-software-works/FSWorkbench-Preview-Releases/releases
