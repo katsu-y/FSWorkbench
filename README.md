@@ -1,12 +1,12 @@
 # FSWorkbench
-### Version 4.0 Beta (4.0.749.11)
+### Version 4.0 (4.0.750.0)
 
 FSWorkbenchは、コンピュータのハードディスクなどローカルストレージに含まれるファイルやディレクトリをGUIで表示・操作をするアプリケーションです。
 ファイルシステムの情報を表示する他、コピー,移動,削除など基本的な操作も行えます。
 ドライブの割り当てられていないボリュームを参照することも出来ます。
 
-Version 4.0では、メインフレームウィンドウを旧来のMDIスタイルからタブ切り替えのTDIウィンドウに変更しました。
-伝統的なWin32アプリケーションで、WinUIの様な最新のスキーム、デザインには対応していませんが、Windows 7、Windows 8.1やGUIが構成されたWindows RE/PEといった環境でも動作します。
+Version 4.0では、メインウィンドウのファイルリストを旧来のMDIスタイルからタブで切り替えるウィンドウに変更しました。
+ATLとWTLを使用した伝統的なWin32アプリケーションで、WinUIの様な最新のスキーム、デザインには対応していませんが、Windows 7、Windows 8.1やGUIが構成されたWindows RE/PEといった環境でも動作します。
 
 - ファイルシステム関連の情報を表示する他、コピー,移動,削除など基本的な操作に加え、日付の変更なども行えます。
 
@@ -22,19 +22,22 @@ Version 4.0では、メインフレームウィンドウを旧来のMDIスタイ
 >FSWorkbenchは現在のところオープンソースではありません。   
 >FSWorkbench is not open source. You will find here the builds only. 
 
-## Beta版
 
-- Version 4.0のBeta版を公開しました。
+![FSWorkbench](img/image-win10.png "FSWorkbench")
+
+### 最新のバージョン
+
+- Version 4.0として正式公開しました。
 
 - [履歴](https://github.com/yamashita-software-works/FSWorkbench/blob/main/HISTORY.md)
 
-- Beta版に至るまでのプレビュー版はこちらで公開していました。   
+- 以前のプレビュー版はこちらで公開していました。   
   https://github.com/yamashita-software-works/FSWorkbench-Preview-Releases/releases
 
 ### 実行環境
 
-Windows 11,Windows 10,Windows 8.1,Windows 7
-(64bit版/32bit版(10,8.1,7),ARMは非対応です)
+Windows 11,Windows 10,Windows 8.1,Windows 7   
+(64bit版/32bit版(10,8.1,7),ARMプロセッサには非対応です)
 
 ### インストール
 
