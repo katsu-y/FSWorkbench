@@ -1,5 +1,5 @@
 # FSWorkbench
-### Version 4.0 (4.0.750.0)
+### Version 4.0 (4.0.750.1)
 
 FSWorkbenchは、コンピュータのハードディスクなどローカルストレージに含まれるファイルやディレクトリをGUIで表示・操作をするアプリケーションです。
 ファイルシステムの情報を表示する他、コピー,移動,削除など基本的な操作も行えます。
@@ -25,14 +25,13 @@ ATLとWTLを使用した伝統的なWin32アプリケーションで、WinUIの�
 
 ![FSWorkbench](img/image-win10.png "FSWorkbench")
 
-### 最新のバージョン
+### 最新のバージョン(4.0.750.1)
 
-- Version 4.0として正式公開しました。
+- ボリュームナビゲーションペインのボリューム表示で、以下の並び順の表示不具合を修正。
+  - 起動時にドライブ名で並んだ上、ツールバーの\[ドライブで並べる\]ボタンがONの状態にならない。
+  - デバイス名順に並ぶ表示に切り替えても、次回起動時にドライブ順になってしまう。
 
-- [履歴](https://github.com/yamashita-software-works/FSWorkbench/blob/main/HISTORY.md)
-
-- 以前のプレビュー版はこちらで公開していました。   
-  https://github.com/yamashita-software-works/FSWorkbench-Preview-Releases/releases
+[これまでのバージョンの履歴](https://github.com/yamashita-software-works/FSWorkbench/blob/main/HISTORY.md)
 
 ### 実行環境
 
