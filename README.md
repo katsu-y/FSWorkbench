@@ -1,5 +1,5 @@
 # FSWorkbench
-### Version 4.0 (4.0.750.2)
+### Version 4.0 (4.0.750.3)
 
 FSWorkbenchは、コンピュータのハードディスクなどローカルストレージに含まれるファイルやディレクトリをGUIで表示・操作をするアプリケーションです。
 ファイルシステムの情報を表示する他、コピー,移動,削除など基本的な操作も行えます。
@@ -25,12 +25,13 @@ ATLとWTLを使用した伝統的なWin32アプリケーションで、WinUIの�
 
 ![FSWorkbench](img/image-win10.png "FSWorkbench")
 
-### 最新のバージョン(4.0.750.2)
+### 最新のバージョン(4.0.750.3)
+
+- 4.0.750.2のデグレードを修正。ユーザーモードでNTFSボリュームにあるファイルを参照した時、ファイルのプロパティウィンドウのクラスタ情報ページが表示されなかったり、基本情報ページやプロパティペインの\[最初のクラスタ番号\]が表示されない不具合を修正。
+
+### 4.0.750.2
 
 - libwebp.libを1.3.2に更新。
-
-- ファイルのプロパティ、クラスタ情報ページでLogical OffsetとPhysical Offsetが誤って表示される不具合を修正。   
-RETRIEVAL_POINTER_BASEの値が取得できていなかった。
 
 [これまでのバージョンの履歴](https://github.com/yamashita-software-works/FSWorkbench/blob/main/HISTORY.md)
 
