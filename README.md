@@ -94,5 +94,4 @@ FSWorkbench is a tool that displays information for files and directories on a l
 Not a "Filer" for comfortable user experience.
 
 NOTICE:   
-- This is a BETA version.
 - Currentary, FSWorkbench is not open source. You will find here release builds only.
